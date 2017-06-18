@@ -1,0 +1,84 @@
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Bot Application.dll.config
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Bot Application.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Bot Application.pdb
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Autofac.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Chronic.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.Bot.Builder.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.Bot.Connector.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.Rest.ClientRuntime.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Newtonsoft.Json.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\System.Net.Http.Formatting.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\System.Web.Http.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\System.Web.Http.WebHost.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Autofac.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.Bot.Builder.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.Bot.Connector.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\Newtonsoft.Json.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\System.Net.Http.Formatting.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\System.Web.Http.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\System.Web.Http.WebHost.xml
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\obj\Debug\BotSkype.csprojResolveAssemblyReference.cache
+D:\app\Henry\BotFramework\BotSkype\BotSkype\obj\Debug\Bot Application.dll
+D:\app\Henry\BotFramework\BotSkype\BotSkype\obj\Debug\Bot Application.pdb
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Bot Application.dll.config
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Bot Application.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Bot Application.pdb
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Autofac.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Chronic.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.Bot.Builder.Autofac.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.Bot.Builder.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.Bot.Connector.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.Rest.ClientRuntime.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Newtonsoft.Json.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\System.Net.Http.Formatting.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\System.Web.Http.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\System.Web.Http.WebHost.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Autofac.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.Bot.Builder.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.Bot.Builder.Autofac.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.Bot.Connector.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Microsoft.WindowsAzure.Configuration.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\Newtonsoft.Json.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\System.IdentityModel.Tokens.Jwt.pdb
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\System.Net.Http.Formatting.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\System.Web.Http.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\System.Web.Http.WebHost.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\ar\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\cs\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\en\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\es\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\fa\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\fr\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\ja\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\ru\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\obj\Debug\BotSkype.csprojResolveAssemblyReference.cache
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\obj\Debug\Bot Application.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\BotSkype\BotSkype\obj\Debug\Bot Application.pdb
