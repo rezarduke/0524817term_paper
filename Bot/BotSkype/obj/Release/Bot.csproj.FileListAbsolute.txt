@@ -1,0 +1,42 @@
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Bot Application.dll.config
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Bot Application.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Bot Application.pdb
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Autofac.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Chronic.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.Bot.Builder.Autofac.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.Bot.Builder.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.Bot.Connector.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.Rest.ClientRuntime.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Newtonsoft.Json.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\System.Net.Http.Formatting.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\System.Web.Http.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\System.Web.Http.WebHost.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Autofac.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.Bot.Builder.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.Bot.Builder.Autofac.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.Bot.Connector.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Microsoft.WindowsAzure.Configuration.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\Newtonsoft.Json.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\System.IdentityModel.Tokens.Jwt.pdb
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\System.Net.Http.Formatting.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\System.Web.Http.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\System.Web.Http.WebHost.xml
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\ar\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\cs\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\en\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\es\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\fa\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\fr\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\ja\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\ru\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\obj\Release\Bot.csprojResolveAssemblyReference.cache
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\obj\Release\Bot Application.dll
+F:\Users\rezard\Documents\Visual Studio 2017\Projects\Bot\BotSkype\obj\Release\Bot Application.pdb
